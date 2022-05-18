@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/rusahu/OneDrive - Informatica/Documents/Cpp_practice'
+g++ -std=c++11 -Wall -o myapp  
+make: Leaving directory 'c:/Users/rusahu/OneDrive - Informatica/Documents/Cpp_practice'
+ 
