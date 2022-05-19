@@ -6,7 +6,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed May 18 14:47:14 2022
+# Make data base, printed on Thu May 19 16:37:52 2022
 
 # Variables
 
@@ -31,7 +31,7 @@ USERPROFILE = C:\Users\rusahu
 # environment
 LOCALAPPDATA = C:\Users\rusahu\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-6127b922-6f99-4876-aebd-6ad05f487b4a-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-f70e9252-ecc6-4b7f-a6aa-e38d2ad94e5b-sock
 # environment
 INFA_TRUSTSTORE = C:\Client_extracta_and_installation\INST\10.5.2\GA_build\clients\shared\security
 # environment
@@ -51,7 +51,7 @@ USERDNSDOMAIN = informatica.com
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11412_UPCNQCYRAQCJTAQQ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_17152_WVPSUMQRLPQSNITE
 # environment
 ONEDRIVECOMMERCIAL = C:\Users\rusahu\OneDrive - Informatica
 # environment
@@ -67,7 +67,7 @@ VSCODE_LOG_STACK = false
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\rusahu\AppData\Roaming\Code\CachedData\da15b6fd3ef856477bf6f4fb29ba1b7af717770d
+VSCODE_CODE_CACHE_PATH = C:\Users\rusahu\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
 # environment
 LANG = C
 # default
@@ -109,7 +109,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 11412
+VSCODE_PID = 17152
 # makefile (from 'Makefile', line 11)
 APPNAME = myapp
 # automatic
@@ -178,6 +178,8 @@ USERDOMAIN = INFORMATICA
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+__COMPAT_LAYER = DetectorsAppHealth
 # makefile (from 'Makefile', line 25)
 EXE = .exe
 # makefile
@@ -215,7 +217,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\rusahu\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43722b26b2722c5d8f338aecaf6e8cde-1.67.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43722b26b2722c5d8f338aecaf6e8cde-1.67.2-main-sock
 # makefile (from 'Makefile', line 13)
 SRCDIR = src
 # environment
@@ -241,7 +243,7 @@ CC = g++
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 # variable set hash-table stats:
-# Load=115/1024=11%, Rehash=0, Collisions=15/171=9%
+# Load=116/1024=11%, Rehash=0, Collisions=15/172=9%
 
 # Pattern-specific Variable Values
 
@@ -250,9 +252,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 # Directories
 
 # src (key c:/Users/rusahu/OneDrive - Informatica/Documents/Cpp_practice/src, mtime 1652817956): 3 files, no impossibilities.
-# . (key c:/Users/rusahu/OneDrive - Informatica/Documents/Cpp_practice, mtime 1652818236): 18 files, no impossibilities.
+# . (key c:/Users/rusahu/OneDrive - Informatica/Documents/Cpp_practice, mtime 1652903278): 37 files, no impossibilities.
 
-# 21 files, no impossibilities in 2 directories.
+# 40 files, no impossibilities in 2 directories.
 
 # Implicit Rules
 
@@ -367,12 +369,12 @@ myapp:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 31 / storage = 329 B / avg = 10 B
-# current buf: size = 8162 B / used = 329 B / count = 31 / avg = 10 B
+# strcache buffers: 1 (0) / strings = 50 / storage = 632 B / avg = 12 B
+# current buf: size = 8162 B / used = 632 B / count = 50 / avg = 12 B
 
-# strcache performance: lookups = 59 / hit rate = 47%
+# strcache performance: lookups = 78 / hit rate = 35%
 # hash-table stats:
-# Load=31/8192=0%, Rehash=0, Collisions=0/59=0%
-# Finished Make data base on Wed May 18 14:47:14 2022
+# Load=50/8192=1%, Rehash=0, Collisions=1/78=1%
+# Finished Make data base on Thu May 19 16:37:52 2022
 
  
